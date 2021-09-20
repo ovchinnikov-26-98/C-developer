@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qPoqMTVLJHTVN1Li9rY053J5kpNw4wGt0z/jSTfGhpy2KBdMka82OHePT6Z9vRMRiaX4pov/M1s+CLKoLVomw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Workers_BaseData\\Workers_BaseData\\Workers_BaseData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\vse.web.serialization.controlledserializationjsonconverter\\1.0.4\\vse.web.serialization.controlledserializationjsonconverter.1.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Vse.Web.Serialization.ControlledSerializationJsonConverter 1.0.4\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Vse.Web.Serialization.ControlledSerializationJsonConverter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
